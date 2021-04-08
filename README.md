@@ -7,5 +7,5 @@ Tkinter is a Python GUI framework
 Simple program to generate random passwords of 8-16-32 characters
 
 ## Screenshot
-![Getting Started](img.jpg)
+![img](img.png)
 
